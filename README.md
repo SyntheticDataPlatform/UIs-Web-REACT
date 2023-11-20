@@ -1,5 +1,5 @@
 
-[Core Synthetic Data Platform Site](https://github.com/SyntheticDataPlatform/.github/blob/main/profile/README.md)
+[Core Synthetic Data Platform Site] (https://github.com/SyntheticDataPlatform/.github/blob/main/profile/README.md)
 
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
